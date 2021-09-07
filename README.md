@@ -2,11 +2,11 @@
 Aplicación para generar los números del juego de apuestas Baloto.
 
 # Ejecución en Windows
-1. Desde la aplicación cmd, ejecutar el comando 'python Baloto.py'.
+1. Desde la aplicación cmd, ejecutar el comando 'python main.py'.
 2. Siga las instrucciones en pantalla.
 
 # Ejecución en Linux
-1. Desde una terminal, ejecutar el comando 'python3 Baloto.py'.
+1. Desde una terminal, ejecutar el comando 'python3 main.py'.
 2. Siga las instrucciones en pantalla.
 
 # Nota
